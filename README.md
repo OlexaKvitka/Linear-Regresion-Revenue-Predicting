@@ -32,4 +32,4 @@ there are no significant outliers in the data that would critically distort the 
 
 **Key Metrics for Business Insights:**
 - MAE: Provides a clear understanding of the average error in real-world units, making it the most practical metric for business logic.
-- - $R^2$ (Coefficient of Determination): Offers an intuitive percentage-based view of how well the input data explains the results.
+- $R^2$ (Coefficient of Determination): Offers an intuitive percentage-based view of how well the input data explains the results.
