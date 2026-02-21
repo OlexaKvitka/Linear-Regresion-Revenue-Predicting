@@ -16,3 +16,20 @@
 
 ## Google Colab Notebook Preview:
 ![# Scatterplot with regression line](https://github.com/OlexaKvitka/Linear-Regresion-Revenue-Predicting/blob/main/Linear-Regresion-Revenue-Predicting.PNG)
+
+## Predict Revenue Summary
+
+Predict Revenue SummaryThe metrics for the test set and cross-validation are remarkably close, indicating model stability, 
+a lack of overfitting, and strong generalization capabilities.
+
+**Model Performance:** Based on Linear Regression with 10-fold cross-validation (cv=10), the model achieved a Mean Absolute Error (MAE) of 46.45. 
+This means the model's predictions deviate by an average of 46 monetary units.
+
+**Error Analysis:** The RMSE ($56.1$) is only ~17% higher than the MAE. This relatively small gap suggests
+there are no significant outliers in the data that would critically distort the forecast.
+
+**Explanatory Power:* The $R^2$ value indicates that the model explains 84% of the target variable's variance.
+
+**Key Metrics for Business Insights:**
+- MAE: Provides a clear understanding of the average error in real-world units, making it the most practical metric for business logic.
+- - $R^2$ (Coefficient of Determination): Offers an intuitive percentage-based view of how well the input data explains the results.
