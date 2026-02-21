@@ -1,7 +1,6 @@
 # Linear-Regresion-Revenue-Predicting
 
-### GOAL: 
-Create a simple linear regression model and predicting the average customer purchase income (purchase_value, in monetary units) based on the time spent on the site (time_on_site, in minutes)
+### GOAL:  Create a simple linear regression model and predicting the average customer purchase income (purchase_value, in monetary units) based on the time spent on the site (time_on_site, in minutes)
 
 # Performing STEPS:
 
