@@ -15,5 +15,4 @@
 -Google Colab Notebook : https://colab.research.google.com/drive/1yo2NatXkBGU2kIG_j6Ltd0wWV9bPwjbE?usp=sharing#scrollTo=5pVSsPv5JOmA
 
 ## Google Colab Notebook Preview:
-https://github.com/OlexaKvitka/Linear-Regresion-Revenue-Predicting/blob/main/Linear-Regresion-Revenue-Predicting.PNG
-
+![# Scatterplot with regression line](https://github.com/OlexaKvitka/Linear-Regresion-Revenue-Predicting/blob/main/Linear-Regresion-Revenue-Predicting.PNG)
