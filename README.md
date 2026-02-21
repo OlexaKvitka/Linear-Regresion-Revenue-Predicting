@@ -1,7 +1,6 @@
 # Linear-Regresion-Revenue-Predicting
 
-## Simple linear regression model
-*Predicting the average customer purchase income (purchase_value, in monetary units) based on the time spent on the site (time_on_site, in minutes).*
+### GOAL: *Create a simple linear regression model and predicting the average customer purchase income (purchase_value, in monetary units) based on the time spent on the site (time_on_site, in minutes)*
 
 
 1. Build a scatter plot for the input data. Assess the type of dependence, draw the regression line on the graph.
